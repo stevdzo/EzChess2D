@@ -1,3 +1,6 @@
+<img width="749" height="978" alt="image" src="https://github.com/user-attachments/assets/e5160cf4-063a-4cc8-bb39-cd81e73a8e2e" />
+
+
 # EzChess2D
 
 Two-player chess on a single machine. C++ / freeglut / SOIL2, Visual Studio 2022.
